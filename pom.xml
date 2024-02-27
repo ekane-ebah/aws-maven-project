@@ -29,7 +29,7 @@
     </site>
     <repository>
         <id>codeartifact</id>
-        <name>jaws-maven-project-aws-maven-repo</name>
+        <name>aws-maven-project-aws-maven-repo</name>
     <url>https://aws-maven-project-637423206540.d.codeartifact.us-east-2.amazonaws.com/maven/aws-maven-repo/</url>
       </repository>
   </distributionManagement>
